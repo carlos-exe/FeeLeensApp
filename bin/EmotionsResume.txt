@@ -1,0 +1,4 @@
+ira, 1, amor, 96, alegría, 1, miedo, 1, tristeza, 1
+ira, 1, amor, 25, alegría, 1, miedo, 6, tristeza, 64
+ira, 0, amor, 1, alegría, 0, miedo, 1, tristeza, 0
+ira, 1, amor, 14, alegría, 1, miedo, 77, tristeza, 6
