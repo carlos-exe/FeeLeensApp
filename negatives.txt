@@ -1,0 +1,415 @@
+El trabajo no cumplió con las expectativas.
+Hubo un retraso significativo en la entrega.
+La calidad no fue la esperada.
+Faltó atención a los detalles en esta tarea.
+No se siguieron las instrucciones proporcionadas.
+Hubo errores recurrentes en el resultado.
+La comunicación no fue efectiva.
+Faltó claridad en la planificación.
+El tiempo empleado fue excesivo para la tarea asignada.
+El resultado no es funcional.
+Se presentó un diseño inconsistente.
+El enfoque tomado no fue el adecuado.
+La solución implementada es poco práctica.
+Faltó creatividad en la propuesta.
+La ejecución fue descuidada.
+No se cumplieron los plazos establecidos.
+El rendimiento estuvo por debajo de lo esperado.
+El contenido no es relevante para el objetivo.
+Hubo falta de compromiso en la tarea.
+No se alcanzaron las metas acordadas.
+El enfoque fue demasiado superficial.
+Se detectaron problemas de compatibilidad.
+Hubo problemas técnicos no resueltos.
+Faltó coordinación con los demás miembros del equipo.
+La documentación fue insuficiente.
+No se respetaron los estándares establecidos.
+El análisis fue incompleto.
+La propuesta carece de fundamento sólido.
+Faltó una estrategia clara.
+Se evidenció falta de experiencia en la tarea.
+No se tuvieron en cuenta las recomendaciones previas.
+El presupuesto fue mal gestionado.
+El enfoque fue demasiado complejo innecesariamente.
+Se omitieron aspectos importantes del problema.
+La presentación fue desorganizada.
+Hubo falta de liderazgo en el proyecto.
+Los objetivos no estaban bien definidos.
+El servicio al cliente fue deficiente.
+La interfaz es poco intuitiva.
+Se ignoraron las prioridades iniciales.
+No se realizaron pruebas exhaustivas.
+El diseño no es atractivo ni funcional.
+Hubo conflictos internos que afectaron el resultado.
+La respuesta a los problemas fue lenta.
+Faltó innovación en la solución.
+La calidad del material fue baja.
+No se hizo seguimiento adecuado al progreso.
+Se presentaron inconsistencias en el reporte.
+El rendimiento estuvo por debajo de la media.
+La estructura del proyecto es confusa.
+Se desviaron de los objetivos iniciales.
+La planificación fue insuficiente.
+Faltó compromiso con la calidad.
+Hubo errores frecuentes en la ejecución.
+La propuesta no fue convincente.
+Los plazos no fueron realistas.
+No se abordaron los problemas prioritarios.
+Faltó innovación en las ideas propuestas.
+La estrategia no fue efectiva.
+Hubo dificultades de implementación.
+El proceso no fue transparente.
+El equipo no estaba alineado en los objetivos.
+La solución fue costosa y poco efectiva.
+No se consideraron los riesgos asociados.
+El resultado fue mediocre.
+El trabajo carece de originalidad.
+Faltó enfoque en los detalles clave.
+La retroalimentación fue ignorada.
+El seguimiento fue inconsistente.
+Los recursos fueron mal gestionados.
+Se presentó un enfoque desactualizado.
+Hubo problemas de comunicación constante.
+La documentación es confusa y desorganizada.
+No se aplicaron buenas prácticas.
+La respuesta fue tardía e insuficiente.
+Hubo falta de empatía hacia los usuarios finales.
+La solución no es escalable.
+Faltó claridad en la definición de roles.
+El control de calidad fue ineficaz.
+No se cumplieron las expectativas del cliente.
+Hubo poca colaboración entre los equipos.
+Los recursos asignados fueron insuficientes.
+El diseño no es accesible.
+Faltó flexibilidad ante cambios inesperados.
+Hubo falta de compromiso por parte de algunos miembros.
+El enfoque tomado fue poco profesional.
+Hubo una falta evidente de organización.
+Los resultados fueron inconsistentes.
+La entrega fue incompleta.
+No se realizaron evaluaciones previas al lanzamiento.
+Faltó atención al feedback recibido.
+Los procedimientos no fueron documentados correctamente.
+Hubo una sobrecarga de trabajo innecesaria.
+El sistema es lento y poco eficiente.
+La propuesta es irrelevante para las necesidades actuales.
+Hubo desperdicio de recursos valiosos.
+La actitud del equipo no fue colaborativa.
+El trabajo carece de perspectiva estratégica.
+Hubo falta de seguimiento en las tareas pendientes.
+No se cumplieron los estándares de calidad esperados.
+Siempre llegas tarde cuando quedamos.
+No me escuchaste cuando traté de explicarte algo importante.
+Últimamente no me siento valorado   en nuestra amistad.
+Cancelas nuestros planes en el último momento.
+Siento que no puedo confiar en ti como antes.
+Nunca respondes mis mensajes a tiempo.
+A veces haces bromas que me incomodan.
+Siempre hablas de tus problemas, pero nunca escuchas los míos.
+Últimamente te siento muy distante.
+No te preocupas por lo que me pasa.
+Nunca ofreces ayuda cuando la necesito.
+Siento que me juzgas demasiado.
+Te estás aprovechando de mi paciencia.
+No respetaste mi punto de vista en nuestra discusión.
+No entiendo por qué siempre tienes que tener la razón.
+No me apoyaste cuando más te necesité.
+A veces siento que solo me buscas cuando te conviene.
+Te olvidaste de mi cumpleaños.
+Últimamente no muestras interés en nuestra amistad.
+No me gusta cómo ignoraste mis sentimientos.
+Me molesta que nunca te disculpes.
+No cumples con lo que prometes.
+A veces me haces sentir inferior.
+Siempre interrumpes cuando estoy hablando.
+No confiaste en mí cuando te dije algo importante.
+Me hiciste un comentario hiriente y no te diste cuenta.
+No entiendo por qué siempre minimizas mis problemas.
+Me dejaste plantado   la última vez.
+Siempre pones tus prioridades por encima de nuestra amistad.
+Me hiciste sentir que no soy importante.
+Últimamente solo hablas de ti mismo  .
+No cumpliste con lo que acordamos.
+Me siento ignorado   cuando estamos en grupo.
+Te burlaste de algo que me importa mucho.
+No me apoyas en mis decisiones.
+Siento que no aprecias lo que hago por ti.
+Siempre sacas mis errores en las conversaciones.
+No te preocupaste por lo que me pasó el otro día.
+Siento que no puedo confiar en ti como antes.
+Me desilusionaste al no estar en un momento clave.
+No respetaste mi opinión en nuestra última charla.
+Últimamente siento que no valoras nuestra amistad.
+Te reíste de algo que me dolió mucho.
+Nunca tomas en serio lo que digo.
+Me dejaste solo   en un momento difícil.
+Siempre tienes excusas para no pasar tiempo juntos.
+No aceptas cuando te digo que me lastimaste.
+Me siento como una opción secundaria en tu vida.
+No fuiste honesto   conmigo.
+Me hiciste sentir mal en público.
+No entiendo por qué siempre tomas decisiones sin consultarme.
+Me hiciste una promesa que no cumpliste.
+No muestras interés en las cosas que me importan.
+Siento que no me entiendes últimamente.
+Me decepcionaste cuando te pedí un favor importante.
+Siempre criticas lo que hago.
+Te burlaste de algo que era importante para mí.
+No me apoyaste en mi proyecto personal.
+Me dejaste esperando demasiado tiempo.
+Me dolió que hablaras mal de mí con otros.
+No respetaste un límite que te había puesto.
+Nunca tomas en cuenta mis sentimientos.
+Me sentí ignorado   en nuestra última conversación.
+A veces siento que te importa más tu teléfono que nuestra charla.
+Me dejaste fuera de un plan importante.
+Siempre te olvidas de cosas que son importantes para mí.
+Criticas cosas que hago sin saber cómo me esfuerzo.
+Me hiciste sentir que no soy suficiente como amigo  .
+No entiendo por qué nunca estás cuando te necesito.
+Te enojaste conmigo por algo que no fue mi culpa.
+Me diste la espalda en un momento clave.
+Últimamente siento que solo me buscas cuando te conviene.
+No mostraste interés en mi logro reciente.
+No respetaste mi decisión en un tema importante.
+Siempre parece que tus problemas son más importantes que los míos.
+Me hiciste un comentario sarcástico que dolió.
+No confiaste en mí con algo importante.
+No me apoyaste cuando fui honesto   contigo.
+Siempre evitas hablar de temas difíciles entre nosotros.
+Me dejaste solo   en un momento complicado.
+Siento que no aprecias las cosas buenas de nuestra amistad.
+Nunca agradeces lo que hago por ti.
+Me juzgaste sin entender mi situación.
+Siento que te burlas de mis inseguridades.
+No estuviste presente en un evento importante para mí.
+Te reíste de algo que me hacía sentir vulnerable.
+No tomaste en serio algo que me dolió.
+Siempre estás ocupado   cuando intento hablar contigo.
+No te preocupaste por preguntar cómo me sentía.
+Últimamente parece que todo te molesta de mí.
+Me ignoraste completamente el otro día.
+Nunca aceptas tus errores en la amistad.
+Criticaste algo importante para mí frente a otros.
+Me decepcionaste con tu actitud reciente.
+Nunca te interesas en mis pasatiempos o intereses.
+Dejaste que otros hablaran mal de mí sin defenderme.
+Siempre haces bromas sobre temas sensibles para mí.
+No mostraste empatía cuando estaba pasando por un mal momento.
+Siento que nuestra amistad ya no es tan importante para ti.
+Me dolió que me dejaras fuera de algo importante para ti.
+No me siento valorado   en mi puesto.
+Nunca se reconocen mis esfuerzos.
+Siento que mi carga laboral no es justa.
+No recibo apoyo suficiente de mi equipo.
+No me gusta cómo gestionas las tareas.
+Nunca se tienen en cuenta mis ideas.
+Siempre soy el último   en enterarme de las decisiones importantes.
+Me interrumpen constantemente durante las reuniones.
+No tengo claridad sobre las expectativas en mi trabajo.
+Siento que no hay oportunidades de crecimiento aquí.
+Los plazos son poco realistas.
+Me siento excluido   en las decisiones del equipo.
+Siempre tengo que corregir errores de otros.
+Nunca recibo retroalimentación constructiva.
+Hay demasiados favoritismos en esta oficina.
+No me dan el crédito por mi trabajo.
+Siento que no me escuchan cuando tengo algo importante que decir.
+La comunicación en el equipo es deficiente.
+Me pidieron quedarme hasta tarde sin aviso previo.
+Nunca recibo apoyo cuando tengo un problema.
+Me siento sobrecargado   con tareas que no me corresponden.
+Hay demasiadas reuniones improductivas.
+Mi jefe nunca está disponible cuando lo necesito.
+No me siento motivado   con mi trabajo actual.
+Las herramientas de trabajo son obsoletas.
+No me gusta cómo se gestionan los conflictos aquí.
+Nunca se respeta mi tiempo personal.
+El ambiente laboral es muy tóxico.
+No hay incentivos para mejorar.
+Me siento constantemente supervisado   de forma excesiva.
+No me siento parte del equipo.
+Las metas son imposibles de alcanzar.
+Nunca recibo capacitación adecuada.
+Me siento ignorado   por mis superiores.
+Siempre cambian las prioridades sin previo aviso.
+Las políticas de la empresa son muy rígidas.
+Me han asignado tareas fuera de mi rol.
+No me informaron sobre los cambios en el proyecto.
+Nunca se resuelven los problemas de forma efectiva.
+Me siento estancado   en mi puesto actual.
+Las expectativas son poco claras.
+Siempre tengo que lidiar con conflictos ajenos.
+No hay transparencia en las decisiones del equipo.
+Me siento infravalorado   comparado   con otros compañeros.
+No tengo acceso a los recursos necesarios para mi trabajo.
+El sistema de evaluación es injusto.
+Me han asignado más trabajo sin consultarme.
+Las jerarquías son demasiado rígidas.
+No hay suficiente colaboración entre departamentos.
+Me siento marginado   por el liderazgo del equipo.
+La falta de comunicación genera demasiados problemas.
+Me hacen responsable de errores que no son míos.
+Siempre se priorizan las tareas de otros sobre las mías.
+Las decisiones se toman sin considerar sus consecuencias.
+No tengo oportunidades para demostrar mis habilidades.
+Me siento sobrecargado   de tareas menores.
+Nunca hay tiempo suficiente para terminar las tareas correctamente.
+No recibo reconocimiento por mi esfuerzo adicional.
+Las instrucciones son confusas y contradictorias.
+Me siento presionado   a trabajar más horas de las que debo.
+No hay equilibrio entre la vida laboral y personal.
+El liderazgo no está dispuesto a escuchar sugerencias.
+Hay demasiados conflictos internos en el equipo.
+Nunca hay presupuesto para mejoras necesarias.
+Me siento constantemente ignorado   por los superiores.
+El ambiente de trabajo no es respetuoso.
+No me gusta cómo se distribuyen los recursos.
+Siempre se espera que esté disponible fuera del horario laboral.
+Nunca recibo apoyo cuando lo solicito.
+Me siento frustrado   con la falta de organización.
+No se establecen prioridades claras en el trabajo.
+Me han asignado tareas contradictorias.
+Nunca hay consenso en el equipo sobre cómo proceder.
+Me siento menospreciado   frente a mis compañeros.
+La carga de trabajo no está bien distribuida.
+Los superiores no tienen en cuenta las necesidades del equipo.
+Nunca se cumple con los plazos debido a mala planificación.
+Me siento agotado   por la falta de motivación en el equipo.
+La retroalimentación siempre es negativa, nunca constructiva.
+Me siento excluido   en las actividades del equipo.
+No hay un liderazgo claro en el proyecto.
+Siempre tengo que arreglar problemas que no causé.
+La falta de dirección hace que todo sea más complicado.
+Me siento incómodo   con la forma en que manejan los problemas.
+Nunca hay un plan claro para los proyectos.
+Siento que mi opinión no es valorada.
+Los procesos internos son demasiado complicados.
+Me siento desmotivado   por la falta de incentivos.
+No hay una visión clara para el futuro del equipo.
+Nunca recibo apoyo técnico cuando lo necesito.
+Me siento poco apreciado   por mi trabajo.
+Las decisiones importantes se toman sin consultar al equipo.
+Me molesta que nunca haya reuniones para resolver problemas.
+El favoritismo es muy evidente en las promociones.
+Me siento desbordado   por la cantidad de tareas.
+No me gusta cómo manejaron mi última solicitud.
+No hay espacio para la creatividad en este trabajo.
+Me frustra la falta de progreso en los proyectos.
+Siempre hay demasiados cambios de último minuto.
+Me siento insatisfecho   con la falta de reconocimiento.
+El producto llegó dañado.
+La calidad no es como se describe.
+No funciona como debería.
+Es demasiado caro para lo que ofrece.
+Se rompió al primer uso.
+No cumple con las especificaciones indicadas.
+El material se siente barato y frágil.
+La entrega fue extremadamente lenta.
+El tamaño no corresponde al que pedí.
+El diseño es poco práctico.
+Vino con piezas faltantes.
+No es compatible con lo que uso.
+Tiene un olor desagradable.
+La batería dura muy poco.
+El producto no es resistente al agua como se prometió.
+No incluye instrucciones claras.
+No se parece a las fotos promocionales.
+Es difícil de usar.
+El color no es el mismo que el anunciado.
+No vale la pena el precio.
+Llegó con la caja abierta.
+No cumple con las expectativas de calidad.
+El sonido es terrible.
+Se calienta demasiado rápido.
+No es duradero.
+No fue lo que esperaba.
+La textura es desagradable.
+Es más pequeño/grande de lo que debería ser.
+Tiene demasiados defectos de fábrica.
+La aplicación asociada no funciona correctamente.
+Es muy incómodo de usar.
+El botón principal está defectuoso.
+El servicio al cliente no responde mis consultas.
+No trae los accesorios que promete.
+El ensamblaje es complicado.
+El cable es demasiado corto.
+No tiene garantía.
+Hace un ruido extraño al usarlo.
+No cumple con las normas de seguridad.
+El empaque es muy deficiente.
+Se rayó fácilmente.
+La pantalla no responde bien al tacto.
+El sabor es horrible (si aplica).
+No sirve para lo que lo compré.
+El precio bajó justo después de comprarlo.
+No es tan versátil como dicen.
+Las piezas se desajustan rápidamente.
+La calidad del plástico es muy mala.
+No fue lo que esperaba por las opiniones que leí.
+El sistema operativo del producto es lento.
+Es muy ruidoso.
+Los bordes son demasiado afilados y peligrosos.
+No trae adaptadores para mi país.
+No se puede limpiar fácilmente.
+Los botones son poco intuitivos.
+No tiene suficientes funciones.
+La batería no carga correctamente.
+Los acabados son de mala calidad.
+Las piezas no encajan bien.
+No es tan ligero como dicen.
+Se desconecta constantemente.
+El software asociado está lleno de errores.
+Las instrucciones están en un idioma que no entiendo.
+No incluye herramientas necesarias para usarlo.
+No tiene opción de reembolso.
+Es muy voluminoso para el uso diario.
+Me lo vendieron como nuevo, pero parece usado.
+Las costuras se soltaron al primer día (si aplica).
+El motor se dañó al poco tiempo de usarlo.
+Los imanes no son lo suficientemente fuertes.
+La pantalla tiene píxeles muertos.
+No se conecta con otros dispositivos.
+Los acabados no están bien alineados.
+Se mancha fácilmente.
+La garantía no cubre el daño que sufrió.
+La tapa no cierra bien.
+No tiene repuestos disponibles.
+El cable es de muy mala calidad.
+Los accesorios adicionales no son compatibles.
+Se resbala fácilmente.
+No es ergonómico.
+La calidad del sonido es muy baja.
+Se descarga incluso cuando no lo uso.
+Los colores del producto se desvanecen con el tiempo.
+El plástico se derrite con el calor.
+Las ruedas (si tiene) no giran bien.
+No tiene suficiente potencia.
+El embalaje no protegió el producto durante el envío.
+No es apto para uso prolongado.
+No cumple con los estándares de calidad.
+Es muy difícil de almacenar.
+Las costuras están mal hechas.
+La pantalla no es lo suficientemente brillante.
+Se traba constantemente.
+Es más pesado de lo anunciado.
+Los bordes están mal terminados.
+No es seguro para niños.
+Se quemó al conectarlo.
+No tiene servicio técnico en mi área.
+Me arrepiento de haberlo comprado.
+Siento que nunca puedo contar con mis amigos cuando los necesito.
+El ambiente en el trabajo es muy tóxico y está afectando mi salud mental.
+En mi relación, nunca siento que me escuchen de verdad.
+Las opiniones que recibo de los demás son siempre críticas, nunca constructivas.
+Me siento invisible en mi grupo de amigos, nadie parece notarlo.
+En el trabajo, siento que se me asignan tareas injustas que no me corresponden.
+Mi pareja siempre minimiza mis problemas, lo que me hace sentir solo  .
+No puedo confiar en las opiniones que me dan porque suelen ser superficiales.
+El ambiente laboral está lleno de chismes y rumores que crean conflictos innecesarios.
+No me siento respetado   en mi relación, como si mis sentimientos no importaran.
+Los amigos que tengo parecen no interesarse en lo que me pasa realmente.
+En el trabajo, nunca recibo apoyo cuando tengo dificultades.
+La forma en que mi pareja maneja las discusiones siempre termina en discusiones más grandes.
+Me siento constantemente juzgado   por mis decisiones, ya sea en el trabajo o con mis amigos.
+Las críticas que recibo de mi entorno no aportan nada positivo, solo me hacen sentir peor.
